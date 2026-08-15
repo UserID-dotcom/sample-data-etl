@@ -1,8 +1,10 @@
 #サンプルデータETLパイプライン
 
 #処理内容
-- Googleドライブ上の、Sheets/CSVデータ収集
-- Pandas & SQLiteでの、データ属性付与・粒度統一・正規化・統合
+- Googleドライブ上の、エクセル・CSVデータ収集（os, chardet, pandas）
+- CSVの、文字エンコード変換（pathlib, unicodedata）
+- 収集データの、属性付与・粒度統一・正規化・一時保存（re, SQLite, ”:memory:”）
+- 収集データの、統合（変数名：clean_df）
 - 統合データ保存①（Googleスプレッドシート）
 - 統合データ保存②（.dbファイル）
 - 統合データ保存③（BigQuery）
