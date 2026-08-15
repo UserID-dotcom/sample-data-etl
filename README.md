@@ -9,13 +9,23 @@
 
 #フォルダー構造
 sample-data-etl.git/
+
   ├ README.md
+
   ├ data-raw/
+
     └ 2026-01
+
       └ sample-data-202601.csv
+
     └ 2026-02
+
       └ sample-data-202602.csv
+
     └ 2026-03
+
       └ sample-data-202603.xlsx
+
   └ notebooks/
+
       └ sample-data-etl.ipynb
