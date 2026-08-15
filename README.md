@@ -14,15 +14,15 @@ sample-data-etl.git/
 
   ├ data-raw/
 
-    └ 2026-01
+    └ 2026-01/
 
       └ sample-data-202601.csv
 
-    └ 2026-02
+    └ 2026-02/
 
       └ sample-data-202602.csv
 
-    └ 2026-03
+    └ 2026-03/
 
       └ sample-data-202603.xlsx
 
