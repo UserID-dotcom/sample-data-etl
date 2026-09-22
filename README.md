@@ -26,17 +26,17 @@ sample-data-etl.git/
 
   ├ data-raw/
 
-    └ 2026-01/
+    └ 2020-01/
 
-      └ sample-data-202601.csv
+      └ sample-data-202001.csv
 
-    └ 2026-02/
+    └ 2020-02/
 
-      └ sample-data-202602.csv
+      └ sample-data-202002.csv
 
-    └ 2026-03/
+    └ 2020-03/
 
-      └ sample-data-202603.xlsx
+      └ sample-data-202003.xlsx
 
   └ notebooks/
 
